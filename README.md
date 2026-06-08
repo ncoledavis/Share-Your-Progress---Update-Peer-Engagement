@@ -6,6 +6,10 @@
 
 ---
 
+## Overview
+
+This quarter was filled with a lot of React and a lot of the componets and fundamentals that go along with it before this term I had never really worked on it but I beleive I ahve built a strong understanding over all of the material and hwo to make it work in my favor instead of against me.
+
 ## Selected Projects
 
 From the full set of coursework, the following three projects represent the highest-level, most complex work completed this term:
